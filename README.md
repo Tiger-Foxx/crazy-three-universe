@@ -4,6 +4,7 @@ Ever wanted to generate your own galaxy? Of course not. But here’s **Galaxy Fo
 
 ![Galaxy Foxy Screenshot](https://github.com/Tiger-Foxx/crazy-three-universe/blob/main/151555.png)
 
+
 ## Why Use Galaxy Foxy? 🤔
 
 Honestly, there’s no real reason. But if you’re:
