@@ -2,7 +2,7 @@
 
 Ever wanted to generate your own galaxy? Of course not. But here’s **Galaxy Foxy** anyway! This project is a totally unnecessary, absolutely pointless galaxy generator made with Three.js. It started as an exercise for my students... and maybe because I was bored. Ok, fine, I admit it—I was very bored. 😂
 
-![Galaxy Foxy Screenshot](https://github.com/Tiger-Foxx/crazy-three-universe/151555.png)
+![Galaxy Foxy Screenshot](https://github.com/Tiger-Foxx/crazy-three-universe/blob/main/151555.png)
 
 ## Why Use Galaxy Foxy? 🤔
 
